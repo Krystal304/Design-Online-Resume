@@ -1,0 +1,28 @@
+
+.container {
+width: auto;
+margin: 0 auto;
+}
+  
+#section1{
+    display: flex;
+    flex-direction: column;
+}
+.box {
+    border: 2px solid;
+    padding: 20px;
+}
+
+body {
+    background-color:blanchedalmond;
+}
+
+body {
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+    margin: 0;
+    padding: 0
+}
